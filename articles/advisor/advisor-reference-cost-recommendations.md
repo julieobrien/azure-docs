@@ -124,6 +124,14 @@ Looks like your resource could have automatically scaled to reduce costs (based 
 
 Learn more about [Data explorer resource - EnableOptimizedAutoscaleAzureDataExplorer (Enable optimized autoscale for Data Explorer resources)](https://aka.ms/adxoptimizedautoscale).
 
+## Azure Databricks
+
+### Enable Autoscaling for Azure Databricks Clusters
+
+Autoscaling makes it easier to achieve high cluster utilization, because you don’t need to provision the cluster to match a workload. When leveraging autoscaling, workloads can run faster and overall costs can be reduced compared to a statically-sized cluster. 
+
+Learn more about [Cluster Size and Autoscaling](https://learn.microsoft.com/en-us/azure/databricks/clusters/configure#cluster-size-and-autoscaling)
+
 ## Network
 
 ### Delete ExpressRoute circuits in the provider status of Not Provisioned
